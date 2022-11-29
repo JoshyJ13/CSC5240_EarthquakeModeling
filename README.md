@@ -11,4 +11,13 @@ Now that you have Jupyter Notebook installed and running, you should be able to 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Located in this repository is 4 .ipynb files. The ModelAnalysis.ipynb contains the python implementations of the 
+Located in this repository is 5 .ipynb files:
+
+1. ModelAnalysis-Baseline.ipynb - contains the python implementations of the baseline models we used to evaluate which baseline model we wanted to use without preprocessing.
+2. ModelAnalysis.ipynb - contains the python implementations of the baseline models we used plus some preprocessing.
+3. RandomForest.ipynb - contains python implementation of the RandomForestClassifier model with preprocssing and submission formatting.
+4. DecisionTreeClassifier.ipynb - contains python implementation of the DecisionTreeClassifier model with preprocessing and submission formatting.
+6. LogisticRegression.ipynb - contains python implementation of the LogisticRegression model.
+
+All files can be ran independently!
+
